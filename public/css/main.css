@@ -1,0 +1,83 @@
+.card-header-title {
+    float: left;
+    padding: 7px;
+    margin-right: 20px;
+}
+
+.card-header-title p {
+    margin: 0;
+}
+
+.load-data-button {
+    float: right;
+}
+
+.create-form {
+    max-width: 500px;
+}
+
+.card-header-buttons form {
+    display: inline;
+    float: right;
+}
+
+.breadcrumbs {
+    font-size: var(--text-sm);
+    margin-bottom: 1.5rem
+}
+  
+.breadcrumbs__list {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: calc(-1* var(--space-xxs));
+    padding-left: 0;
+}
+.breadcrumbs__list li {
+    display: inline-block;
+    margin-bottom: var(--space-xxs);
+    display: inline-flex;
+    align-items: center;
+}
+
+.breadcrumbs__separator {
+    display: inline-block;
+    margin: 0 var(--space-xxs);
+    color: var(--color-contrast-medium);
+}
+.breadcrumbs__separator .breadcrumbs-icon {
+    display: block;
+    color: inherit;
+}
+  
+.breadcrumbs-icon {
+    width: 20px;
+}
+
+.delete-item-btn {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.container-header {
+    max-width: 100%;
+}
+
+.main-section {
+    padding-left: 15px;
+    overflow: hidden;
+}
+
+.section-sidebar {
+    float: left;
+    width: 260px;
+    padding-right: 15px;
+    overflow: hidden;
+}
+
+.section-content {
+    overflow: hidden;
+}
+
+.section-content .container {
+    padding-left: 0;
+}
