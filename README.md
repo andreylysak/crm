@@ -1,3 +1,5 @@
 # crm
-Test task
-Integration for Amo CRM build on Laravel framework
+
+Test task.
+
+Simple integration for Amo CRM build on Laravel framework.
